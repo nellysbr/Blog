@@ -1,0 +1,18 @@
+.headerContainer {
+  background-color: #202024;
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerContent {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.appTitle {
+  margin-left: 1rem;
+}
